@@ -1,3 +1,3 @@
 # quintoin
-.pwd
+cd/
 
