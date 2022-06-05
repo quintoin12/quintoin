@@ -1,2 +1,3 @@
 # quintoin
-cute
+.pwd
+
