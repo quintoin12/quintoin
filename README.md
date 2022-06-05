@@ -1,3 +1,4 @@
 # quintoin
-cd/
+cd/ pwd 
+~$
 
